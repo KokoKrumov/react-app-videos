@@ -1,0 +1,8 @@
+.video-item {
+    padding-top: 15px !important;
+    cursor: pointer;
+}
+
+.video-item+.video-item {
+    border-top: 1px solid #e3e3e3 !important;
+}
